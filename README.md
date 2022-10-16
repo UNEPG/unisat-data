@@ -1,5 +1,6 @@
 # Open Data Collections from UniSat Nano-satellites.
 
+<<<<<<< HEAD
 <p align="center">
   <a href="https://unisat.kz">
     <img src="assets/logo.png" alt="Logo" width="80" height="80">
@@ -27,4 +28,3 @@ Data Structure:
 				<Launch Region>
 								<Launch Date>
 ```
-
